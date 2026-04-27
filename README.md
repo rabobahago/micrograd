@@ -1,6 +1,6 @@
 # 🧠 Micrograd — A Tiny Autograd Engine in Python
 
-A minimal, educational implementation of **reverse-mode automatic differentiation** (backpropagation) built from scratch in Python. Inspired by [Andrej Karpathy's micrograd](https://github.com/karpathy/micrograd), this project builds a scalar-valued autograd engine and uses it to train a small Multi-Layer Perceptron (MLP).
+A minimal, educational implementation of **reverse-mode automatic differentiation** (backpropagation) built from scratch in Python. Inspired by pytorch library, this project builds a scalar-valued autograd engine and uses it to train a small Multi-Layer Perceptron (MLP).
 
 ---
 
